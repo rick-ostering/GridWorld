@@ -1,3 +1,6 @@
 # GridWorld
 A simple grid world project to test Stable Baselines3
-[![Video Title](https://img.youtube.com/vi/g9pgOloQJhc/0.jpg)](https://www.youtube.com/watch?v=g9pgOloQJhc)
+
+
+https://github.com/user-attachments/assets/23c65841-999f-419e-9216-0a56ccb53f02
+
